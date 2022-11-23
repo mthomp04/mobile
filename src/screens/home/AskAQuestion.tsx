@@ -149,7 +149,7 @@ export default function AskAQuestion({ navigation }: Params): JSX.Element {
           after the sermon during our Q&A time.
         </Text>
         <TextInput
-          accessibilityLabel="Question Description"
+          accessibilityLabel="Question"
           keyboardAppearance="dark"
           autoFocus
           placeholder={"Ask whatever you'd like..."}
